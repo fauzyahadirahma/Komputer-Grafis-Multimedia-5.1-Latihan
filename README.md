@@ -1,2 +1,2 @@
-# Komputer-Grafis-Multimedia-5.2
-Kumpulan Tugas Praktikum 5.2 - Materi Membuat Huruf dari Transformasi Translasi 
+# Komputer-Grafis-Multimedia-5.1 Latihan
+Kumpulan Praktikum 5.1 Latihan - Materi Membuat Huruf dari Transformasi Translasi 
